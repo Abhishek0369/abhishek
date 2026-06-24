@@ -1,0 +1,42 @@
+what is ESM AND EMM in modem cellular
+
+Memory management: malloc, free, stack vs heap
+
+typedefs ,  Interrupts and callbacks
+
+Bit manipulation (very important for PHY/MAC firmware)
+
+Example tasks firmware developers do:
+
+Parse MAC headers
+Toggle PHY registers
+Manage circular buffers
+Implement protocol state machines (RACH, DRX, HARQ, ARQ)
+
+RTOS basics (ThreadX, FreeRTOS
+Task scheduling
+Interrupt handling
+Mutex, semaphores, spinlocks
+DMA concepts
+Memory mapped I/O
+IPC (Inter-process communication)
+
+2CA/3CA/4CA/5CA
+Intra/inter-band CA
+UL CA
+MIMO layers
+High throughput scenarios
+
+PHY/MAC scheduling understanding
+
+iot devices its use cases and nw operators by chipset examples
+
+difference of LTE AND NR NAS AND RRC pov
+
+how URLLC AND SLICING works for 5g SA
+
+More CA combos available (2CC/3CC/4CC NR CA -----if 1 band is failed then what else 
+
+for PDCP/RLC/MAC layers which logs packets to enable in QXDM in details , also what and how were the parameters can change or effect directly to the functionality of these L2 layer componenet from base station(gnb/enb)
+
+https://ecms.fs.capgemini.com/ResignationForm/ShowResignationForm
